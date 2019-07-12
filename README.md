@@ -4,7 +4,7 @@ Ease is a .Net library to ease unit testing through IoC containers and Mocking.
 
 Ease is built on top of [NUnit](https://github.com/nunit) & [Moq](https://github.com/moq) and currently supports [DryIoc](https://github.com/dadhi/DryIoc) & [Unity](https://github.com/unitycontainer) IoC containers and has extensions with some basic support for [Prism.Forms](https://github.com/prismlibrary).
 
-Our philosiphy is to embrace the magic of DI and the IoC containers that we are already using in our app development to make testing easier to write and manage. 
+Our philosophy is to embrace the magic of DI and the IoC containers that we are already using in our app development to make testing easier to write and manage. 
 
 # Installation
 
@@ -30,4 +30,4 @@ Install-Package Ease.NUnit.Unity.PrismForms
 
 # Source
 
-The soruce is avaiable on [GitHub](https://github.com/EaseLibrary).
+The source is available on [GitHub](https://github.com/EaseLibrary).
